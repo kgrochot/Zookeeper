@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/A function for reading data" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Read and print" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Successful reading" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/The suitable inputs" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring a mutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/The assignment operator" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
