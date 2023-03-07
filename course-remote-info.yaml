@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/557366/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: "Mon, 02 Jan 2023 19:44:32 UTC"
+update_date: "Thu, 23 Feb 2023 14:11:11 UTC"
 stages:
 - id: 975
   step: 14133
@@ -38,7 +38,7 @@ topics:
   1:
   - title: Units of information
     theory_id: 6865
-  - title: Standard input
+  - title: Standard input with Java Scanner
     theory_id: 4445
   - title: The classification of basic types
     theory_id: 4455

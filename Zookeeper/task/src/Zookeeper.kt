@@ -1,3 +1,5 @@
+import java.util.*
+
 const val camel = """Switching on the camera in the camel habitat...
  ___.-''''-.
 /___  @    |
@@ -21,7 +23,7 @@ Look at that! Our little camel is sunbathing!"""
 const val lion = """Switching on the camera in the lion habitat...
                                                ,w.
                                              ,YWMMw  ,M  ,
- uble                       _.---.._   __..---._.'MMMMMw,wMWmW,
+                        _.---.._   __..---._.'MMMMMw,wMWmW,
                    _.-""        '''           YP"WMMMMMMMMMb,
                 .-' __.'                   .'     MMMMW^WMMMM;
     _,        .'.-'"; `,       /`     .--""      :MMM[==MWMW^;
@@ -36,7 +38,7 @@ WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
 The lion is roaring!"""
 
 const val deer = """Switching on the camera in the deer habitat...
-   /|       |\num
+   /|       |\
 `__\\       //__'
    ||      ||
  \__`\     |'__/
@@ -113,6 +115,30 @@ const val rabbit = """Switching on the camera in the rabbit habitat...
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!"""
 
+val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
+
 fun main() {
-    // write your code here
+    val scanner = Scanner(System.`in`) // reads data
+    println("Please enter the number of the habitat you would like to view: ")
+    val habitat = mutableListOf(camel, lion, deer, goose, bat, rabbit)
+    var i = readLine()!!
+    do  {
+        println(habitat[i.toInt()])
+        i = readLine()!!
+    } while ( i != "exit")
+    println("See you later!")
 }
+
+/*
+var habitat = readLine()!!
+
+while (habitat != "exit") {
+   println(animals[habitat.toInt()])
+   println("Please enter the number of the habitat you would like to view:")
+   habitat = readLine()!!
+}
+
+println("See you later!")
+
+}
+ */

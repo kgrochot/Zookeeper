@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: readString()
-- text: nextString()
-- text: readLine()
-- text: nextLine()
+- text: next().useDelimiter("-")
+- text: setDelimiter("-")
+- text: useDelimiter("-")
+- text: next("-")
 files:
 - name: src/Main.kt
   visible: true

@@ -284,5 +284,28 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/14135#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: "Wrong answer in test #2\n\nYou should output a lion when the input is\
+    \ the number 1\n\nPlease find below the output of your program during this failed\
+    \ test.\nNote that the &#39;&gt;&#39; character indicates the beginning of the\
+    \ input line.\n\n---\n\nPlease enter the number of the habitat you would like\
+    \ to view: \n&gt; 1\nSwitching on the camera in the lion habitat...\n        \
+    \                                       ,w.\n                                \
+    \             ,YWMMw  ,M  ,\n uble                       _.---.._   __..---._.&#39;MMMMMw,wMWmW,\n\
+    \                   _.-&quot;&quot;        &#39;&#39;&#39;           YP&quot;WMMMMMMMMMb,\n\
+    \                .-&#39; __.&#39;                   .&#39;     MMMMW^WMMMM;\n\
+    \    _,        .&#39;.-&#39;&quot;; `,       /`     .--&quot;&quot;      :MMM[==MWMW^;\n\
+    \ ,mM^&quot;     ,-&#39;.&#39;   /   ;      ;      /   ,       MMMMb_wMW&quot;\
+    \  @\\\n,MM:.    .&#39;.-&#39;   .&#39;     ;     `\\    ;     `,     MMMMMMMW\
+    \ `&quot;=./`-,\nWMMm__,-&#39;.&#39;     /      _.\\      F&#39;&#39;&#39;-+,,\
+    \   ;_,_.dMMMMMMMM[,_ / `=_}\n&quot;^MP__.-&#39;    ,-&#39; _.--&quot;&quot; \
+    \  `-,   ;       \\  ; ;MMMMMMMMMMW^``; __|\n           /   .&#39;           \
+    \ ; ;         )  )`{  \\ `&quot;^W^`,   \\  :\n          /  .&#39;           \
+    \  /  (       .&#39;  /     Ww._     `.  `&quot;\n         /  Y,             \
+    \ `,  `-,=,_{   ;      MMMP`&quot;&quot;-,  `-._.-,\n        (--, )          \
+    \      `,_ / `) \\/&quot;&quot;)      ^&quot;      `-, -;&quot;\\:\nThe lion is\
+    \ roaring!\n---\nYou&#39;ve reached the end of the program. To check another habitat,\
+    \ please restart the watcher."
+  time: "Sat, 25 Feb 2023 16:48:54 UTC"
+record: 3
